@@ -21,7 +21,7 @@ Welcome to the Music Landing Page project! This is a simple webpage designed to 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Philani56/CODSOFT-LandingPage
+    https://github.com/Philani56/CODSOFT-LandingPage
     ```
 
 2. Open `index.html` in your preferred web browser to view the landing page.
@@ -71,7 +71,7 @@ This portfolio showcases my skills, experiences, and projects. It serves as an i
 
 To run the website locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/Philani56/CODSOFT-Portfolio`
+1. Clone the repository: https://github.com/Philani56/CODSOFT-Portfolio
 2. Open `index.html` in your preferred web browser.
 
 ## Technologies Used
