@@ -20,9 +20,9 @@ Welcome to the Music Landing Page project! This is a simple webpage designed to 
 
 1. Clone the repository:
 
-    ```bash
+   
     https://github.com/Philani56/CODSOFT-LandingPage
-    ```
+   
 
 2. Open `index.html` in your preferred web browser to view the landing page.
 
